@@ -17,7 +17,7 @@
 | 1회차  |       [bj15811](https://www.acmicpc.net/problem/15811)       |      복면산?!       |     |  🍀  |    |    |
 | 1회차  |       [bj18808](https://www.acmicpc.net/problem/18808)       |      스티커 붙이기       |     |  🍀  |    |    |
 | 1회차  |       [bj2469](https://www.acmicpc.net/problem/2469)       |       사다리 타기      |     |  🍀  |  🦾  |    |
-| 1회차  |       [bj5430](https://www.acmicpc.net/problem/5430)       |       AC      |     |  🍀  |    |    |
+| 1회차  |       [bj5430](https://www.acmicpc.net/problem/5430)       |       AC      |     |  🍀  |    |  🌷  |
 
 
 ---
