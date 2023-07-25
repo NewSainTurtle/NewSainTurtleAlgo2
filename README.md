@@ -16,11 +16,11 @@
 | :----: | :----------------------------------------------------------: | :----------------------------: | :--: | :--: | :--: | :--: |
 | 3회차  |       [bj16173](https://www.acmicpc.net/problem/16173)       |    점프왕 쩰리 (Small)       |     |  🍀  |    |  🌷  |
 | 3회차  |       [bj24053](https://www.acmicpc.net/problem/24053)       |     알고리즘 수업 - 삽입 정렬 3      |     |  🍀  |    |    |
-| 3회차  |       [bj16724](https://www.acmicpc.net/problem/20291)       |     파일 정리      |     |  🍀  |    |    |
+| 3회차  |       [bj16724](https://www.acmicpc.net/problem/20291)       |     파일 정리      |     |  🍀  |  🦾  |    |
 | 3회차  |       [bj17070](https://www.acmicpc.net/problem/17070)       |    파이프 옮기기 1       |     |    |    |  🌷  |
 | 2회차  |       [bj5547](https://www.acmicpc.net/problem/5547)       |      일루미네이션     |     |    |    |    |
 | 2회차  |       [bj2608](https://www.acmicpc.net/problem/2608)       |      로마 숫자       |     |  🍀  |    |    |
-| 2회차  |       [bj6064](https://www.acmicpc.net/problem/6064)       |       카잉 달력      |     |    |    |  🌷  |
+| 2회차  |       [bj6064](https://www.acmicpc.net/problem/6064)       |       카잉 달력      |     |    |  🦾  |  🌷  |
 | 2회차  |       [bj1202](https://www.acmicpc.net/problem/1202)       |       보석 도둑      |     |    |  🦾  |    |
 | 1회차  |       [bj15811](https://www.acmicpc.net/problem/15811)       |      복면산?!       |  ☠️   |  🍀  |    |    |
 | 1회차  |       [bj18808](https://www.acmicpc.net/problem/18808)       |      스티커 붙이기       |     |  🍀  |    |    |
