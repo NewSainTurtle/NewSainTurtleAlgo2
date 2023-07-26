@@ -16,6 +16,7 @@
 | :----: | :----------------------------------------------------------: | :----------------------------: | :--: | :--: | :--: | :--: |
 | 1회차  |    [pg60059](https://school.programmers.co.kr/learn/courses/30/lessons/60059)      |   자물쇠와 열쇠   |  🙆🏻‍♀️ | 💚  |   | 🌷 |
 | 2회차  |    [pg42888](https://school.programmers.co.kr/learn/courses/30/lessons/42888)      |   오픈채팅방   | 🙆🏻‍♀️  | 💚  |   | 🌷 |
+| 3회차  |    [st623](https://softeer.ai/practice/info.do?idx=1&eid=623)      |   비밀 메뉴   |   |   |   |  |
 
 ---
 
@@ -23,3 +24,4 @@
 
 - 백준 Baekjoon [🔗](https://www.acmicpc.net)
 - 프로그래머스 Programmers [🔗](https://programmers.co.kr/learn/challenges)
+- 소프티어 Softeer [🔗](https://softeer.ai/practice/index.do)
