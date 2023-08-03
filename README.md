@@ -17,7 +17,7 @@
 | 4회차  |       [bj2660](https://www.acmicpc.net/problem/2660)       |      회장뽑기     |     | 🍀 |    |    |
 | 4회차  |       [bj14923](https://www.acmicpc.net/problem/14923)       |     미로 탈출      |     |  🍀   |    |    |
 | 4회차  |       [bj16724](https://www.acmicpc.net/problem/16724)       |    피리 부는 사나이       |     | 🍀 |    |    |
-| 4회차  |       [bj12865](https://www.acmicpc.net/problem/12865)       |      평범한 배낭     |     |     |    |  🌷  |
+| 4회차  |       [bj12865](https://www.acmicpc.net/problem/12865)       |      평범한 배낭     |     |  🍀  |    |  🌷  |
 | 3회차  |       [bj16173](https://www.acmicpc.net/problem/16173)       |    점프왕 쩰리 (Small)       |     |  🍀  |    |  🌷  |
 | 3회차  |       [bj24053](https://www.acmicpc.net/problem/24053)       |     알고리즘 수업 - 삽입 정렬 3      |     |  🍀  |    |    |
 | 3회차  |       [bj16724](https://www.acmicpc.net/problem/20291)       |     파일 정리      |     |  🍀  |  🦾  |    |
