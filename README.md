@@ -7,7 +7,7 @@
 ```
  회차 폴더 > 문제_이름(bj1541_애기상빈_김성수).md
 
- BEAKJOON(bj) / Programmers(pg)
+ BEAKJOON(bj) / Programmers(pg) / Softeer(st)
 ```
 
 #### Problem List
@@ -42,3 +42,4 @@
 
 - 백준 Baekjoon [🔗](https://www.acmicpc.net)
 - 프로그래머스 Programmers [🔗](https://programmers.co.kr/learn/challenges)
+- 소프티어 Softeer [🔗](https://softeer.ai/practice/index.do)
