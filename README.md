@@ -17,7 +17,7 @@
 | 5회차  |       [st414](https://softeer.ai/practice/info.do?idx=1&eid=414)       |      스마트 물류     |  ☠️   |  |    |    |
 | 5회차  |       [st1256](https://softeer.ai/practice/info.do?idx=1&eid=1256)       |     업무 처리      |     | 🍀 |    |    |
 | 5회차  |       [st1529](https://softeer.ai/practice/info.do?idx=1&eid=1529)       |    출퇴근길       |     |  |  🦾  |    |
-| 5회차  |       [st1309](https://softeer.ai/practice/info.do?idx=1&eid=1309)       |      성적 평가     |     |    |    |    |
+| 5회차  |       [st1309](https://softeer.ai/practice/info.do?idx=1&eid=1309)       |      성적 평가     |     |    |    |  🌷  |
 | 4회차  |       [bj2660](https://www.acmicpc.net/problem/2660)       |      회장뽑기     |     | 🍀 |    |    |
 | 4회차  |       [bj14923](https://www.acmicpc.net/problem/14923)       |     미로 탈출      |     |  🍀   |    |    |
 | 4회차  |       [bj16724](https://www.acmicpc.net/problem/16724)       |    피리 부는 사나이       |     | 🍀 |    |    |
