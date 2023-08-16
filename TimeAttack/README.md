@@ -17,6 +17,8 @@
 | 1회차  |    [pg60059](https://school.programmers.co.kr/learn/courses/30/lessons/60059)      |   자물쇠와 열쇠   |  🙆🏻‍♀️ | 💚  |   | 🌷 |
 | 2회차  |    [pg42888](https://school.programmers.co.kr/learn/courses/30/lessons/42888)      |   오픈채팅방   | 🙆🏻‍♀️  | 💚  |   | 🌷 |
 | 3회차  |    [st623](https://softeer.ai/practice/info.do?idx=1&eid=623)      |   비밀 메뉴   | 🙆🏻‍♀️  | 💚   |  💪  | 🌷 |
+| 4회차  |    [st1526](https://softeer.ai/practice/info.do?idx=1&eid=1526)      |   [HSAT 6회 정기 코딩 인증평가 기출] 염기서열 커버   |   |   |   |  |
+| 5회차  |    [pg150368](https://school.programmers.co.kr/learn/courses/30/lessons/150368)      |   이모티콘 할인행사   |   |   |   |  |
 
 ---
 
