@@ -17,7 +17,7 @@
 | 6회차  |       [bj2467](https://www.acmicpc.net/problem/2467)       |    용액      |     |     |    |    |
 | 6회차  |       [bj7490](https://www.acmicpc.net/problem/7490)       |     0 만들기     |     |     |    |    |
 | 6회차  |       [bj6603](https://www.acmicpc.net/problem/6603)       |     로또     |     |     |    |    |
-| 6회차  |       [bj1113](https://www.acmicpc.net/problem/1113)       |     수영장 만들기     |     |     |    |    |
+| 6회차  |       [bj1113](https://www.acmicpc.net/problem/1113)       |     수영장 만들기     |     |     |    |  🌷  |
 | 5회차  |       [st414](https://softeer.ai/practice/info.do?idx=1&eid=414)       |      스마트 물류     |  ☠️   |  |    |    |
 | 5회차  |       [st1256](https://softeer.ai/practice/info.do?idx=1&eid=1256)       |     업무 처리      |     | 🍀 |    |    |
 | 5회차  |       [st1529](https://softeer.ai/practice/info.do?idx=1&eid=1529)       |    출퇴근길       |     |  |  🦾  |    |
