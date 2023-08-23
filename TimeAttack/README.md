@@ -19,7 +19,7 @@
 | 3회차  |    [st623](https://softeer.ai/practice/info.do?idx=1&eid=623)      |   비밀 메뉴   | 🙆🏻‍♀️  | 💚   |  💪  | 🌷 |
 | 4회차  |    [st1526](https://softeer.ai/practice/info.do?idx=1&eid=1526)      |   [HSAT 6회 정기 코딩 인증평가 기출] 염기서열 커버   |   |   |   |  |
 | 5회차  |    [pg150368](https://school.programmers.co.kr/learn/courses/30/lessons/150368)      |   이모티콘 할인행사   | 🙆🏻‍♀️  | 💚 |   | 🌷 |
-| 6회차  |    [pg81302](https://school.programmers.co.kr/learn/courses/30/lessons/81302)      |   거리두기 확인하기  |   | 💚  |   |  |
+| 6회차  |    [pg81302](https://school.programmers.co.kr/learn/courses/30/lessons/81302)      |   거리두기 확인하기  | 🙆🏻‍♀️  | 💚  |   |  |
 
 ---
 
