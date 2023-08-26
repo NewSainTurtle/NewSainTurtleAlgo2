@@ -14,6 +14,11 @@
 
 |  회차  |                             번호                             | 문제                          | 정현 | 유나 | 강호 | 연수 |
 | :----: | :----------------------------------------------------------: | :----------------------------: | :--: | :--: | :--: | :--: |
+| 6회차  |       [bj2866](https://www.acmicpc.net/problem/2866)       |    문자열 잘라내기      |     |     |    |    |
+| 6회차  |       [bj3048](https://www.acmicpc.net/problem/3048)       |     개미     |     |    |    |    |
+| 6회차  |       [bj27172](https://www.acmicpc.net/problem/27172)       |     수 나누기 게임     |     |     |    |    |
+| 6회차  |       [bj1946](https://www.acmicpc.net/problem/1946)       |     신입 사원     |     |     |    |    |
+
 | 6회차  |       [bj2467](https://www.acmicpc.net/problem/2467)       |    용액      |     |     |    |    |
 | 6회차  |       [bj7490](https://www.acmicpc.net/problem/7490)       |     0 만들기     |     |  🍀  |    |    |
 | 6회차  |       [bj6603](https://www.acmicpc.net/problem/6603)       |     로또     |     |   🍀  |  🦾  |  🌷  |
