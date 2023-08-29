@@ -19,7 +19,7 @@
 | 8회차  |       [bj1562](https://www.acmicpc.net/problem/1562)       |   계단 수      |     |     |    |    |
 | 8회차  |       [bj28018](https://www.acmicpc.net/problem/28018)       |   시간이 겹칠까?      |     |     |    |    |
 | 7회차  |       [bj2866](https://www.acmicpc.net/problem/2866)       |    문자열 잘라내기      |     |     |    |    |
-| 7회차  |       [bj3048](https://www.acmicpc.net/problem/3048)       |     개미     |     |    |    |  🌷  |
+| 7회차  |       [bj3048](https://www.acmicpc.net/problem/3048)       |     개미     |     |  🍀  |    |  🌷  |
 | 7회차  |       [bj27172](https://www.acmicpc.net/problem/27172)       |     수 나누기 게임     |     |     |  🦾  |    |
 | 7회차  |       [bj1946](https://www.acmicpc.net/problem/1946)       |     신입 사원     |     |     |    |  🌷  |
 | 6회차  |       [bj2467](https://www.acmicpc.net/problem/2467)       |    용액      |     |     |    |    |
