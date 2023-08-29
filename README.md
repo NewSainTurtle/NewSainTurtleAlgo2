@@ -14,6 +14,10 @@
 
 |  회차  |                             번호                             | 문제                          | 정현 | 유나 | 강호 | 연수 |
 | :----: | :----------------------------------------------------------: | :----------------------------: | :--: | :--: | :--: | :--: |
+| 8회차  |       [bj1405](https://www.acmicpc.net/problem/1405)       |    미친 로봇      |     |     |    |    |
+| 8회차  |       [bj1022](https://www.acmicpc.net/problem/1022)       |    소용돌이 예쁘게 출력하기      |     |     |    |    |
+| 8회차  |       [bj1562](https://www.acmicpc.net/problem/1562)       |   계단 수      |     |     |    |    |
+| 8회차  |       [bj28018](https://www.acmicpc.net/problem/28018)       |   시간이 겹칠까?      |     |     |    |    |
 | 7회차  |       [bj2866](https://www.acmicpc.net/problem/2866)       |    문자열 잘라내기      |     |     |    |    |
 | 7회차  |       [bj3048](https://www.acmicpc.net/problem/3048)       |     개미     |     |    |    |  🌷  |
 | 7회차  |       [bj27172](https://www.acmicpc.net/problem/27172)       |     수 나누기 게임     |     |     |  🦾  |    |
