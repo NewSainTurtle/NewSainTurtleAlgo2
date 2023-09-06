@@ -21,6 +21,7 @@
 | 5회차  |    [pg150368](https://school.programmers.co.kr/learn/courses/30/lessons/150368)      |   이모티콘 할인행사   | 🙆🏻‍♀️  | 💚 |   | 🌷 |
 | 6회차  |    [pg81302](https://school.programmers.co.kr/learn/courses/30/lessons/81302)      |   거리두기 확인하기  | 🙆🏻‍♀️  | 💚  |   |  |
 | 7회차  |    [pg17684](https://school.programmers.co.kr/learn/courses/30/lessons/17684)      |   [3차] 압축  |   |  💚 |   | 🌷 |
+| 8회차  |    [bj10836](https://www.acmicpc.net/problem/10836)      |   여왕벌  | 🙆🏻‍♀️  |    |   |   |
 
 ---
 
