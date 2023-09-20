@@ -22,6 +22,7 @@
 | 6회차  |    [pg81302](https://school.programmers.co.kr/learn/courses/30/lessons/81302)      |   거리두기 확인하기  | 🙆🏻‍♀️  | 💚  |   |  |
 | 7회차  |    [pg17684](https://school.programmers.co.kr/learn/courses/30/lessons/17684)      |   [3차] 압축  | 🙆🏻‍♀️  |  💚 |   | 🌷 |
 | 8회차  |    [bj10836](https://www.acmicpc.net/problem/10836)      |   여왕벌  | 🙆🏻‍♀️  |    | 💪 | 🌷 |
+| 9회차  |    [pg81303](https://school.programmers.co.kr/learn/courses/30/lessons/81303)      |   표 편집  |   | 💚  |   |  |
 
 ---
 
