@@ -17,10 +17,10 @@
 | 10회차  |       [bj2346](https://www.acmicpc.net/problem/2346)       |    풍선 터뜨리기     |     |     |    |    |
 | 10회차  |       [bj14711](https://www.acmicpc.net/problem/14711)       |    타일 뒤집기 (Easy)     |     | 🍀 |    |    |
 | 10회차  |       [bj9328](https://www.acmicpc.net/problem/9328)       |    열쇠     |     |     |    |    |
-| 10회차  |       [bj2877](https://www.acmicpc.net/problem/2877)       |   4와 7      |     |     |    |    |
+| 10회차  |       [bj2877](https://www.acmicpc.net/problem/2877)       |   4와 7      |     |     |    |  🌷  |
 | 9회차  |       [bj6593](https://www.acmicpc.net/problem/6593)       |    상범 빌딩      |     |     |    |    |
 | 9회차  |       [bj17836](https://www.acmicpc.net/problem/17836)       |    공주님을 구해라!      |     |   🍀  |    |    |
-| 9회차  |       [bj12904](https://www.acmicpc.net/problem/12904)       |    A와 B      |     |  ☘️   |    |    |
+| 9회차  |       [bj12904](https://www.acmicpc.net/problem/12904)       |    A와 B      |     |  ☘️   |    |  🌷  |
 | 8회차  |       [bj1405](https://www.acmicpc.net/problem/1405)       |    미친 로봇      |     |     |    |    |
 | 8회차  |       [bj1022](https://www.acmicpc.net/problem/1022)       |    소용돌이 예쁘게 출력하기      |     |  🍀   |    |    |
 | 8회차  |       [bj1562](https://www.acmicpc.net/problem/1562)       |   계단 수      |     |  ☘️  |  🦾  |    |
