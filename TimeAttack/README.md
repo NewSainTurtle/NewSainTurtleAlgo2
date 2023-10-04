@@ -24,6 +24,7 @@
 | 8회차  |    [bj10836](https://www.acmicpc.net/problem/10836)      |   여왕벌  | 🙆🏻‍♀️  |    | 💪 | 🌷 |
 | 9회차  |    [pg81303](https://school.programmers.co.kr/learn/courses/30/lessons/81303)      |   표 편집  |   | 💚  |   | 🌷 |
 | 10회차  |    [pg72414](https://school.programmers.co.kr/learn/courses/30/lessons/72414)      |   광고 삽입  |   |  💚  |   | 🌷 |
+| 11회차  |    [pg72412](https://school.programmers.co.kr/learn/courses/30/lessons/72412)      |   순위 검색  |   |  |   |  |
 
 ---
 
