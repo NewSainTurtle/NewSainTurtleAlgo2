@@ -14,7 +14,9 @@
 
 |  회차  |                             번호                             | 문제                          | 정현 | 유나 | 강호 | 연수 |
 | :----: | :----------------------------------------------------------: | :----------------------------: | :--: | :--: | :--: | :--: |
+| 13회차  |       [ct](https://www.codetree.ai/training-field/frequent-problems/problems/cube-rounding-again/description)       |    정육면체 한번 더 굴리기    |     |  🍀   |    |    |
 | 12회차  |       [bj1245](https://www.acmicpc.net/problem/1245)       |    농장 관리     |     |    |     |  🌷  |
+| 12회차  |       [ct](https://www.codetree.ai/training-field/frequent-problems/problems/destroy-the-turret/description)       |   포탑 부수기     |     |  🍀   |    |    |
 | 12회차  |       [bj1655](https://www.acmicpc.net/problem/1655)       |    가운데를 말해요     | 💀 |    |    |    |
 | 11회차  |       [ct](https://www.codetree.ai/training-field/frequent-problems/problems/maze-runner/description)       |    메이즈 러너     |     |  🍀   |    |    |
 | 11회차  |       [bj11660](https://www.acmicpc.net/problem/11660)       |   구간 합 구하기 5      |     |  ☘️   |     |  🌷  |
