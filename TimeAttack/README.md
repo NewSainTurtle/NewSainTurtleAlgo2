@@ -25,6 +25,7 @@
 | 9회차  |    [pg81303](https://school.programmers.co.kr/learn/courses/30/lessons/81303)      |   표 편집  |   | 💚  |   | 🌷 |
 | 10회차  |    [pg72414](https://school.programmers.co.kr/learn/courses/30/lessons/72414)      |   광고 삽입  |   |  💚  |   | 🌷 |
 | 11회차  |    [pg72412](https://school.programmers.co.kr/learn/courses/30/lessons/72412)      |   순위 검색  |   | 💚 |   | 🌹 |
+| 12회차  |    [pg](https://school.programmers.co.kr/learn/courses/15008/15008-pccp-%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC-1%ED%9A%8C)      |   PCCP모의고사 1회  |   | 💚 |   |  |
 
 ---
 
