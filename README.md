@@ -14,6 +14,9 @@
 
 |  회차  |                             번호                             | 문제                          | 정현 | 유나 | 강호 | 연수 |
 | :----: | :----------------------------------------------------------: | :----------------------------: | :--: | :--: | :--: | :--: |
+| 14회차 |       [bj1285](https://www.acmicpc.net/problem/1285)         | 동전 뒤집기 |     |     |    |    |
+| 14회차 |       [bj2458](https://www.acmicpc.net/problem/2458)         | 키 순서 |     |  🍀   |    |    |
+| 14회차 |       [bj2504](https://www.acmicpc.net/problem/2504)         | 괄호의 값 |     |  ☘️   |    |    |
 | 13회차 |       [bj15927](https://www.acmicpc.net/problem/15927)       | 회문은 회문아니야!! |     |     |    |  🌷  |
 | 13회차 |       [bj1806](https://www.acmicpc.net/problem/1806)         | 부분합 |     |     |    |    |
 | 13회차 |       [ct](https://www.codetree.ai/training-field/frequent-problems/problems/cube-rounding-again/description)       |    정육면체 한번 더 굴리기    |     |  🍀   |    |    |
