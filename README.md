@@ -14,7 +14,7 @@
 
 |  회차  |                             번호                             | 문제                          | 정현 | 유나 | 강호 | 연수 |
 | :----: | :----------------------------------------------------------: | :----------------------------: | :--: | :--: | :--: | :--: |
-| 17회차 |       [bj9252](https://www.acmicpc.net/problem/9252)         | LCS 2 |     |    |    |    |
+| 17회차 |       [bj9252](https://www.acmicpc.net/problem/9252)         | LCS 2 |     |  🍀  |    |    |
 | 16회차 |       [bj9251](https://www.acmicpc.net/problem/9251)         | LCS |     |  🍀   |    |    |
 | 15회차 |       [bj2565](https://www.acmicpc.net/problem/2565)         | 전깃줄 |     |  🍀   |    |    |
 | 14회차 |       [bj1285](https://www.acmicpc.net/problem/1285)         | 동전 뒤집기 |  💀   |     |    |    |
