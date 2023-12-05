@@ -28,6 +28,7 @@
 | 12회차  |    [pg](https://school.programmers.co.kr/learn/courses/15008/15008-pccp-%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC-1%ED%9A%8C)      |   PCCP모의고사 1회  |   | 💚 |  | 🌹 |
 | 13회차  |    [pg](https://school.programmers.co.kr/learn/courses/15009/15009-pccp-%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC-2%ED%9A%8C)      |   PCCP모의고사 2회  |   |  💚 |  |  |
 | 14회차  |    [pg159993](https://school.programmers.co.kr/learn/courses/30/lessons/159993)      |   미로 탈출  |   | 💚 |   |  |
+| 15회차  |    [pg42579](https://school.programmers.co.kr/learn/courses/30/lessons/42579)      |  베스트앨범  |   |   |   |  |
 
 
 ---
