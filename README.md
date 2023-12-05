@@ -14,9 +14,15 @@
 
 |  회차  |                             번호                             | 문제                          | 정현 | 유나 | 강호 | 연수 |
 | :----: | :----------------------------------------------------------: | :----------------------------: | :--: | :--: | :--: | :--: |
+| 17회차 |       [bj1652](https://www.acmicpc.net/problem/1652)         | 누울 자리를 찾아라 |     |     |    |    |
 | 17회차 |       [bj9252](https://www.acmicpc.net/problem/9252)         | LCS 2 |     |  🍀  |    |    |
+| 17회차 |       [bj2138](https://www.acmicpc.net/problem/2138)         | 전구와 스위치 |     |     |    |    |
+| 16회차 |       [bj2461](https://www.acmicpc.net/problem/9251)         | 대표 선수 |     |     |    |    |
 | 16회차 |       [bj9251](https://www.acmicpc.net/problem/9251)         | LCS |     |  🍀   |    |    |
+| 15회차 |       [bj13414](https://www.acmicpc.net/problem/13414)       | 수강신청 |     |     |    |    |
 | 15회차 |       [bj2565](https://www.acmicpc.net/problem/2565)         | 전깃줄 |     |  🍀   |    |    |
+| 15회차 |       [bj14567](https://www.acmicpc.net/problem/14567)       | 선수과목(Prerequisite) |     |     |    |    |
+| 15회차 |       [bj2110](https://www.acmicpc.net/problem/2110)         | 공유기 설치 |     |      |    |    |
 | 14회차 |       [bj1285](https://www.acmicpc.net/problem/1285)         | 동전 뒤집기 |  💀   |     |    |    |
 | 14회차 |       [bj2458](https://www.acmicpc.net/problem/2458)         | 키 순서 |     |  🍀   |    |    |
 | 14회차 |       [bj2467](https://www.acmicpc.net/problem/2467)         | 용액 |     |     |    |    |
