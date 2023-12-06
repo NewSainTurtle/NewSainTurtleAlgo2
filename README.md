@@ -17,7 +17,7 @@
 | 17회차 |       [bj1652](https://www.acmicpc.net/problem/1652)         | 누울 자리를 찾아라 |     |     |    |    |
 | 17회차 |       [bj9252](https://www.acmicpc.net/problem/9252)         | LCS 2 |     |  🍀  |    |    |
 | 17회차 |       [bj2138](https://www.acmicpc.net/problem/2138)         | 전구와 스위치 |     |     |    |    |
-| 16회차 |       [bj2461](https://www.acmicpc.net/problem/9251)         | 대표 선수 |     |     |    |    |
+| 16회차 |       [bj2461](https://www.acmicpc.net/problem/2461)         | 대표 선수 |     |     |    |    |
 | 16회차 |       [bj9251](https://www.acmicpc.net/problem/9251)         | LCS |     |  🍀   |    |    |
 | 15회차 |       [bj13414](https://www.acmicpc.net/problem/13414)       | 수강신청 |     |     |    |    |
 | 15회차 |       [bj2565](https://www.acmicpc.net/problem/2565)         | 전깃줄 |     |  🍀   |    |    |
