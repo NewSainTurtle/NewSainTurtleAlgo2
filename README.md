@@ -14,8 +14,10 @@
 
 |  회차  |                             번호                             | 문제                          | 정현 | 유나 | 강호 | 연수 |
 | :----: | :----------------------------------------------------------: | :----------------------------: | :--: | :--: | :--: | :--: |
-| 19회차 |       [bj14426](https://www.acmicpc.net/problem/14426)         | 접두사 찾기 |  💀   |     |    |    |
-| 19회차 |       [bj11729](https://www.acmicpc.net/problem/11729)         | 하노이 탑 이동 순서 |     | 🍀 |    |    |
+| 20회차 |       [bj17298](https://www.acmicpc.net/problem/17298)       | 오큰수 |    |     |    |    |
+| 20회차 |       [bj2281](https://www.acmicpc.net/problem/2281)         | 데스노트 |    |     |    |    |
+| 19회차 |       [bj14426](https://www.acmicpc.net/problem/14426)       | 접두사 찾기 |  💀   |     |    |    |
+| 19회차 |       [bj11729](https://www.acmicpc.net/problem/11729)       | 하노이 탑 이동 순서 |     | 🍀 |    |    |
 | 19회차 |       [bj6588](https://www.acmicpc.net/problem/6588)         | 골드바흐의 추측 |   💀   |    |    |  🌷  |
 | 18회차 |       [bj2529](https://www.acmicpc.net/problem/2529)         | 부등호 |  💀  |     |    |    |
 | 18회차 |       [bj1958](https://www.acmicpc.net/problem/1958)         | LCS 3 |     |  🍀  |    |    |
