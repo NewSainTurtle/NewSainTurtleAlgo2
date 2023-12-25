@@ -30,7 +30,7 @@
 | 14회차  |    [pg159993](https://school.programmers.co.kr/learn/courses/30/lessons/159993)      |   미로 탈출  | 🙆🏻‍♀️  | 💚 |   |  |
 | 15회차  |    [pg42579](https://school.programmers.co.kr/learn/courses/30/lessons/42579)      |  베스트앨범  |  🙆🏻‍♀️ | 💚 |   |  |
 | 16회차  |    [pg154540](https://school.programmers.co.kr/learn/courses/30/lessons/154540)      |  무인도 여행  |  🙆🏻‍♀️ | 💚 |   |  |
-| 17회차  |    [pg43163](https://school.programmers.co.kr/learn/courses/30/lessons/43163)      |  단어 변환  |  🙆🏻‍♀️  |  |   |  |
+| 17회차  |    [pg43163](https://school.programmers.co.kr/learn/courses/30/lessons/43163)      |  단어 변환  |  🙆🏻‍♀️  | 💚 |   |  |
 
 
 ---
