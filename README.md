@@ -16,7 +16,7 @@
 | :----: | :----------------------------------------------------------: | :----------------------------: | :--: | :--: | :--: | :--: |
 | 22회차 |       [bj1863](https://www.acmicpc.net/problem/1863)         | 스카이라인 쉬운거 |   |    |    |    |
 | 22회차 |       [bj1541](https://www.acmicpc.net/problem/1541)         | 잃어버린 괄호 |   |    |    |    |
-| 22회차 |       [bj10800](https://www.acmicpc.net/problem/10800)         | 컬러볼 |   |    |    |    |
+| 22회차 |       [bj10800](https://www.acmicpc.net/problem/10800)         | 컬러볼 |   |    |    |  🌷  |
 | 21회차 |       [bj2659](https://www.acmicpc.net/problem/2659)         | 십자카드 문제 |  💀  |    |    |    |
 | 21회차 |       [bj2696](https://www.acmicpc.net/problem/2696)         | 중앙값 구하기 |    |  🍀 |    |    |
 | 21회차 |       [bj1976](https://www.acmicpc.net/problem/1976)         | 여행 가자 |    |    |    |  🌷  |
