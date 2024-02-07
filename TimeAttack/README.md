@@ -34,7 +34,7 @@
 | 18회차  |    [pg68646](https://school.programmers.co.kr/learn/courses/30/lessons/68646)      |  풍선 터트리기  |  🐬  | 💚 |   |  |
 | 19회차  |    [pg43238](https://school.programmers.co.kr/learn/courses/30/lessons/43238)      |  입국심사  |  | 💚 |   | 🌷 |
 | 20회차  |    [pg64064](https://school.programmers.co.kr/learn/courses/30/lessons/64064)      |  불량 사용자  | 🐬 | 💚 |   | 🌷 |
-| 21회차  |    [pg60057](https://school.programmers.co.kr/learn/courses/30/lessons/60057)      |  문자열 압축  |  🐬  | 💚  |   |   |
+| 21회차  |    [pg60057](https://school.programmers.co.kr/learn/courses/30/lessons/60057)      |  문자열 압축  |  🐬  | 💚  |   | 🌷 |
 
 
 ---
