@@ -15,7 +15,7 @@
 |  회차  |                             번호                             | 문제                          | 정현 | 유나 | 강호 | 연수 |
 | :----: | :----------------------------------------------------------: | :----------------------------: | :--: | :--: | :--: | :--: |
 | 24회차 |       [bj2232](https://www.acmicpc.net/problem/2232)         | 지뢰 |  💀  |    |    |    |
-| 24회차 |       [bj2143](https://www.acmicpc.net/problem/2143)         | 두 배열의 합 |   |    |    |    |
+| 24회차 |       [bj2143](https://www.acmicpc.net/problem/2143)         | 두 배열의 합 |   |  🍀  |    |    |
 | 24회차 |       [bj2831](https://www.acmicpc.net/problem/2831)         | 댄스 파티 |   |    |    |    |
 | 23회차 |       [bj1411](https://www.acmicpc.net/problem/1411)         | 비슷한 단어 |   |  🍀  |    |    |
 | 23회차 |       [bj5639](https://www.acmicpc.net/problem/5639)         | 이진 검색 트리 |   |  🍀  |    |    |
