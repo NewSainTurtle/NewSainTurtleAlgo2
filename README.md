@@ -14,19 +14,21 @@
 
 |  회차  |                             번호                             | 문제                          | 정현 | 유나 | 강호 | 연수 |
 | :----: | :----------------------------------------------------------: | :----------------------------: | :--: | :--: | :--: | :--: |
+| 26회차 |       [bj20040](https://www.acmicpc.net/problem/20040)         | 사이클 게임 |   |  ☘️  |    |    |
 | 26회차 |       [bj2146](https://www.acmicpc.net/problem/2146)         | 다리 만들기 |   |  🍀  |    |    |
+| 26회차 |       [bj9465](https://www.acmicpc.net/problem/9465)         | 스티커 |   |    |    |    |
 | 25회차 |       [bj10775](https://www.acmicpc.net/problem/10775)         | 공항 |   |    |    |    |
 | 25회차 |       [bj11049](https://www.acmicpc.net/problem/11049)         | 행렬 곱셈 순서 |   |  🍀  |    |    |
 | 25회차 |       [bj2831](https://www.acmicpc.net/problem/2831)         | 댄스 파티 |   |  ☘️  |    |    |
 | 24회차 |       [bj2232](https://www.acmicpc.net/problem/2232)         | 지뢰 |  💀  |    |    |    |
 | 24회차 |       [bj2143](https://www.acmicpc.net/problem/2143)         | 두 배열의 합 |   |  🍀  |    |    |
-| 24회차 |       [bj2831](https://www.acmicpc.net/problem/2831)         | 댄스 파티 |   |    |    |    |
+| 24회차 |       [bj2831](https://www.acmicpc.net/problem/2831)         | 댄스 파티 |   |  ☘️  |    |    |
 | 23회차 |       [bj1411](https://www.acmicpc.net/problem/1411)         | 비슷한 단어 |   |  🍀  |    |    |
 | 23회차 |       [bj5639](https://www.acmicpc.net/problem/5639)         | 이진 검색 트리 |   |  🍀  |    |    |
 | 23회차 |       [bj20529](https://www.acmicpc.net/problem/20529)       | 가장 가까운 세 사람의 심리적 거리 |   |    |    |  🌷  |
 | 22회차 |       [bj1863](https://www.acmicpc.net/problem/1863)         | 스카이라인 쉬운거 |   |    |    |    |
 | 22회차 |       [bj1541](https://www.acmicpc.net/problem/1541)         | 잃어버린 괄호 |   |  🍀  |    |    |
-| 22회차 |       [bj10800](https://www.acmicpc.net/problem/10800)       | 컬러볼 |   |    |    |  🌷  |
+| 22회차 |       [bj10800](https://www.acmicpc.net/problem/10800)       | 컬러볼 |   |  ☘️  |    |  🌷  |
 | 21회차 |       [bj2659](https://www.acmicpc.net/problem/2659)         | 십자카드 문제 |  💀  |    |    |    |
 | 21회차 |       [bj2696](https://www.acmicpc.net/problem/2696)         | 중앙값 구하기 |    |  🍀 |    |    |
 | 21회차 |       [bj1976](https://www.acmicpc.net/problem/1976)         | 여행 가자 |    |    |    |  🌷  |
