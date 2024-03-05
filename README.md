@@ -19,7 +19,7 @@
 | 26회차 |       [bj20040](https://www.acmicpc.net/problem/20040)         | 사이클 게임 |   |  ☘️  |    |    |
 | 26회차 |       [bj2146](https://www.acmicpc.net/problem/2146)         | 다리 만들기 |   |  🍀  |    |    |
 | 26회차 |       [bj9465](https://www.acmicpc.net/problem/9465)         | 스티커 |   |    |    |    |
-| 25회차 |       [bj10775](https://www.acmicpc.net/problem/10775)         | 공항 |   |    |    |    |
+| 25회차 |       [bj10775](https://www.acmicpc.net/problem/10775)         | 공항 |  💀  |    |    |    |
 | 25회차 |       [bj11049](https://www.acmicpc.net/problem/11049)         | 행렬 곱셈 순서 |   |  🍀  |    |    |
 | 25회차 |       [bj2831](https://www.acmicpc.net/problem/2831)         | 댄스 파티 |   |  ☘️  |    |    |
 | 24회차 |       [bj2232](https://www.acmicpc.net/problem/2232)         | 지뢰 |  💀  |    |    |    |
