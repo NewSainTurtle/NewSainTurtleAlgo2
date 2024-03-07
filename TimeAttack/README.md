@@ -36,9 +36,9 @@
 | 20회차  |    [pg64064](https://school.programmers.co.kr/learn/courses/30/lessons/64064)      |  불량 사용자  | 🐬 | 💚 |   | 🌷 |
 | 21회차  |    [pg60057](https://school.programmers.co.kr/learn/courses/30/lessons/60057)      |  문자열 압축  |  🐬  | 💚  |   | 🌷 |
 | 22회차  |    [pg142085](https://school.programmers.co.kr/learn/courses/30/lessons/142085)      |  디펜스 게임  |   | 💚  |   |   |
-| 23회차  |    [pg49189](https://school.programmers.co.kr/learn/courses/30/lessons/49189)      |  가장 먼 노드  |   | 💚  |   |   |
-| 24회차  |    [pg49191](https://school.programmers.co.kr/learn/courses/30/lessons/49191)      |  순위  |   | 💚  |   |   |
-| 25회차  |    [bj14938](https://www.acmicpc.net/problem/14938)      |  서강그라운드  |   |   |   |   |
+| 23회차  |    [pg49189](https://school.programmers.co.kr/learn/courses/30/lessons/49189)      |  가장 먼 노드  |  🐬  | 💚  |   |   |
+| 24회차  |    [pg49191](https://school.programmers.co.kr/learn/courses/30/lessons/49191)      |  순위  |  🐬  | 💚  |   |   |
+| 25회차  |    [bj14938](https://www.acmicpc.net/problem/14938)      |  서강그라운드  |  🐬  |   |   |   |
 
 
 ---
