@@ -16,7 +16,7 @@
 | :----: | :----------------------------------------------------------: | :----------------------------: | :--: | :--: | :--: | :--: |
 | 28회차 |       [bj11066](https://www.acmicpc.net/problem/11066)         | 파일 합치기 |    |    |    |    |
 | 28회차 |       [bj14002](https://www.acmicpc.net/problem/14002)         | 가장 긴 증가하는 부분 수열 4 |    |    |    |    |
-| 27회차 |       [bj1956](https://www.acmicpc.net/problem/1956)         | 운동 |  💀  |    |    |    |
+| 27회차 |       [bj1956](https://www.acmicpc.net/problem/1956)         | 운동 |  💀  |  🍀  |    |    |
 | 27회차 |       [bj1967](https://www.acmicpc.net/problem/1967)         | 트리의 지름 |  💀  |  🍀  |    |    |
 | 26회차 |       [bj20040](https://www.acmicpc.net/problem/20040)       | 사이클 게임 |  💀  |  ☘️  |    |    |
 | 26회차 |       [bj2146](https://www.acmicpc.net/problem/2146)         | 다리 만들기 |   |  🍀  |    |    |
