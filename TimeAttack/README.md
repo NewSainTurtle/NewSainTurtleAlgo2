@@ -40,7 +40,7 @@
 | 24회차  |    [pg49191](https://school.programmers.co.kr/learn/courses/30/lessons/49191)      |  순위  |  🐬  | 💚  |   |   |
 | 25회차  |    [bj14938](https://www.acmicpc.net/problem/14938)                                |  서강그라운드  |  🐬  |  💚  |   |   |
 | 26회차  |    [bj2225](https://www.acmicpc.net/problem/2225)                                  |  합분해  |   🐬  |  💚  |   |   |
-| 27회차  |    [bj14567](https://www.acmicpc.net/problem/14567)                                  |  선수과목 (Prerequisite)  |     |    |   |   |
+| 27회차  |    [bj14567](https://www.acmicpc.net/problem/14567)                                  |  선수과목 (Prerequisite)  |     |  💚  |   |   |
 
 
 ---
