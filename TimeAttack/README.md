@@ -41,7 +41,7 @@
 | 25회차  |    [bj14938](https://www.acmicpc.net/problem/14938)                                |  서강그라운드  |  🐬  |  💚  |   |   |
 | 26회차  |    [bj2225](https://www.acmicpc.net/problem/2225)                                  |  합분해  |   🐬  |  💚  |   |   |
 | 27회차  |    [bj14567](https://www.acmicpc.net/problem/14567)                                  |  선수과목 (Prerequisite)  |     |  💚  |   |   |
-| 28회차  |    [bj4811](https://www.acmicpc.net/problem/4811)                                  |  알약  |     |   |   |   |
+| 28회차  |    [bj4811](https://www.acmicpc.net/problem/4811)                                  |  알약  |     |  💚 |   |   |
 
 
 ---
