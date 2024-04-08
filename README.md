@@ -14,8 +14,8 @@
 
 |  회차  |                             번호                             | 문제                          | 정현 | 유나 | 강호 | 연수 |
 | :----: | :----------------------------------------------------------: | :----------------------------: | :--: | :--: | :--: | :--: |
-| 32회차 |       [bj3190](https://www.acmicpc.net/problem/3190)         | 뱀 |    |   |    |    |
-| 32회차 |       [bj1113](https://www.acmicpc.net/problem/1113)         | 수영장 만들기 |    |   |    |    |
+| 32회차 |       [bj3190](https://www.acmicpc.net/problem/3190)         | 뱀 |    |  🍀 |    |    |
+| 32회차 |       [bj1113](https://www.acmicpc.net/problem/1113)         | 수영장 만들기 |    | 🍀  |    |    |
 | 31회차 |       [bj20542](https://www.acmicpc.net/problem/20542)         | 받아쓰기 |  💀  |    |    |    |
 | 31회차 |       [bj5052](https://www.acmicpc.net/problem/5052)         | 전화번호 목록 |    | 🍀   |    |    |
 | 30회차 |       [bj1106](https://www.acmicpc.net/problem/1106)         | 호텔 |    |  ☘️  |    |    |
