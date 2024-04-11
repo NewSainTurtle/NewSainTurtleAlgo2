@@ -43,7 +43,7 @@
 | 27회차  |    [bj14567](https://www.acmicpc.net/problem/14567)                                  |  선수과목 (Prerequisite)  |     |  💚  |   |   |
 | 28회차  |    [bj4811](https://www.acmicpc.net/problem/4811)                                  |  알약  |     |  💚 |   |   |
 | 29회차  |    [bj9519](https://www.acmicpc.net/problem/9519)                                  |  졸려  |  🐬  |  💚  |   |   |
-| 30회차  |    [bj1417](https://www.acmicpc.net/problem/1417)                                  |  국회의원 선거  |     | 💚 |   |   |
+| 30회차  |    [bj1417](https://www.acmicpc.net/problem/1417)                                  |  국회의원 선거  |   🐬   | 💚 |   |   |
 
 
 ---
