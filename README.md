@@ -15,7 +15,7 @@
 |  회차  |                             번호                             | 문제                          | 정현 | 유나 | 강호 | 연수 |
 | :----: | :----------------------------------------------------------: | :----------------------------: | :--: | :--: | :--: | :--: |
 | 33회차 |       [bj2881](https://www.acmicpc.net/problem/2881)         | 산책길 |    |   |    |    |
-| 33회차 |       [bj2632](https://www.acmicpc.net/problem/2632)         | 피자판매 |    | ☘️  |    |    |
+| 33회차 |       [bj2632](https://www.acmicpc.net/problem/2632)         | 피자판매 |    | 🍀  |    |    |
 | 32회차 |       [bj3190](https://www.acmicpc.net/problem/3190)         | 뱀 |    |  🍀 |    |    |
 | 32회차 |       [bj1113](https://www.acmicpc.net/problem/1113)         | 수영장 만들기 |    | 🍀  |    |    |
 | 31회차 |       [bj20542](https://www.acmicpc.net/problem/20542)         | 받아쓰기 |  💀  |    |    |    |
