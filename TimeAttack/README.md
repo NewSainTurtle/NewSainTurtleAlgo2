@@ -44,7 +44,7 @@
 | 28회차  |    [bj4811](https://www.acmicpc.net/problem/4811)                                  |  알약  |     |  💚 |   |   |
 | 29회차  |    [bj9519](https://www.acmicpc.net/problem/9519)                                  |  졸려  |  🐬  |  💚  |   |   |
 | 30회차  |    [bj1417](https://www.acmicpc.net/problem/1417)                                  |  국회의원 선거  |   🐬   | 💚 |   |   |
-| 31회차  |    [pg42627](https://school.programmers.co.kr/learn/courses/30/lessons/42627)      |  디스크 컨트롤러  |    |   |   |   |
+| 31회차  |    [pg42627](https://school.programmers.co.kr/learn/courses/30/lessons/42627)      |  디스크 컨트롤러  |    |  💚 |   |   |
 
 ---
 
