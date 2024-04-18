@@ -15,7 +15,7 @@
 |  회차  |                             번호                             | 문제                          | 정현 | 유나 | 강호 | 연수 |
 | :----: | :----------------------------------------------------------: | :----------------------------: | :--: | :--: | :--: | :--: |
 | 34회차 |       [bj6209](https://www.acmicpc.net/problem/6209)         | 제자리 멀리뛰기 |    |   |    |    |
-| 34회차 |       [bj3020](https://www.acmicpc.net/problem/3020)         | 개똥벌레 |    |   |    |    |
+| 34회차 |       [bj3020](https://www.acmicpc.net/problem/3020)         | 개똥벌레 |    | ☘️  |    |    |
 | 33회차 |       [bj2881](https://www.acmicpc.net/problem/2881)         | 산책길 |    |   |    |    |
 | 33회차 |       [bj2632](https://www.acmicpc.net/problem/2632)         | 피자판매 |    | 🍀  |    |    |
 | 32회차 |       [bj3190](https://www.acmicpc.net/problem/3190)         | 뱀 |    |  🍀 |    |    |
