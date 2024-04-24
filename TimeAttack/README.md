@@ -45,6 +45,7 @@
 | 29회차  |    [bj9519](https://www.acmicpc.net/problem/9519)                                  |  졸려  |  🐬  |  💚  |   |   |
 | 30회차  |    [bj1417](https://www.acmicpc.net/problem/1417)                                  |  국회의원 선거  |   🐬   | 💚 |   |   |
 | 31회차  |    [pg42627](https://school.programmers.co.kr/learn/courses/30/lessons/42627)      |  디스크 컨트롤러  |    |  💚 |   |   |
+| 32회차  |    [bj17951](https://www.acmicpc.net/problem/17951)                                  |  흩날리는 시험지 속에서 내 평점이 느껴진거야  |     |   |   |   |
 
 ---
 
