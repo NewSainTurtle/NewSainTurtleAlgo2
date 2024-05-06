@@ -15,7 +15,6 @@
 |  회차  |                             번호                             | 문제                          | 정현 | 유나 | 강호 | 연수 |
 | :----: | :----------------------------------------------------------: | :----------------------------: | :--: | :--: | :--: | :--: |
 | 36회차 |       [bj6198](https://www.acmicpc.net/problem/6198)         | 옥상 정원 꾸미기 |    | ☘️  |    |    |
-| 36회차 |       [bj1655](https://www.acmicpc.net/problem/1655)         | 가운데를 말해요 |    |  🍀 |    |    |
 | 35회차 |       [bj11578](https://www.acmicpc.net/problem/11578)         | 팀원 모집 |  💀  | 🍀  |    |    |
 | 35회차 |       [bj1062](https://www.acmicpc.net/problem/1062)         | 가르침 |    | 🍀  |    |    |
 | 34회차 |       [bj6209](https://www.acmicpc.net/problem/6209)         | 제자리 멀리뛰기 |  💀  | 🍀  |    |    |
@@ -80,7 +79,7 @@
 | 13회차 |       [bj2564](https://www.acmicpc.net/problem/2564)         | 경비원 |     |  ☘️   |    |  🌷  |
 | 12회차  |       [bj1245](https://www.acmicpc.net/problem/1245)        |    농장 관리     |     |    |     |  🌷  |
 | 12회차  |       [ct](https://www.codetree.ai/training-field/frequent-problems/problems/destroy-the-turret/description)       |   포탑 부수기     |     |  🍀   |    |    |
-| 12회차  |       [bj1655](https://www.acmicpc.net/problem/1655)        |    가운데를 말해요     | 💀 |    |    |    |
+| 12회차  |       [bj1655](https://www.acmicpc.net/problem/1655)        |    가운데를 말해요     | 💀 |  🍀  |    |    |
 | 11회차  |       [ct](https://www.codetree.ai/training-field/frequent-problems/problems/maze-runner/description)       |    메이즈 러너     |     |  🍀   |    |    |
 | 11회차  |       [bj11660](https://www.acmicpc.net/problem/11660)       |   구간 합 구하기 5      |     |  ☘️   |     |  🌷  |
 | 10회차  |       [bj2346](https://www.acmicpc.net/problem/2346)       |    풍선 터뜨리기     |     |     |    |    |
