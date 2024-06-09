@@ -14,6 +14,7 @@
 
 |  회차  |                             번호                             | 문제                          | 정현 | 유나 | 강호 | 연수 |
 | :----: | :----------------------------------------------------------: | :----------------------------: | :--: | :--: | :--: | :--: |
+| 40회차 |       [ct](https://www.codetree.ai/training-field/frequent-problems/problems/go-on-the-rides/description)         | 놀이기구 탑승 |    |  ☘️ |    |    |
 | 39회차 |       [bj2450](https://www.acmicpc.net/problem/2450)         | 모양 정돈 |    |   |    |    |
 | 39회차 |       [bj4991](https://www.acmicpc.net/problem/4991)         | 로봇 청소기 |    | ☘️  |    |    |
 | 38회차 |       [bj1368](https://www.acmicpc.net/problem/1368)         | 물대기 |    |   |    |    |
