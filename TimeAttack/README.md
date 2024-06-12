@@ -14,6 +14,7 @@
 
 | 회차   |                                    번호                                    | 문제                     | 정현 | 유나 | 강호 | 연수 |
 | :----: | :----------------------------------------------------------: | :----------------------------: | :--: | :--: | :--: | :--: |
+| 36회차  |    [ct](https://www.codetree.ai/training-field/frequent-problems/problems/ancient-ruin-exploration/description)  |  고대 문명 유적 탐사  |     |   |   |   |
 | 35회차  |    [bj14391](https://www.acmicpc.net/problem/14391)                                  |  종이 조각  |     | 💚  |   |   |
 | 34회차  |    [bj3078](https://www.acmicpc.net/problem/3078)                                  | 좋은 친구 |  🐬  | 💚  |   |   |
 | 33회차  |    [bj17244](https://www.acmicpc.net/problem/17244)                                  |  아맞다우산  |     | 💚  |   |   |
