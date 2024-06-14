@@ -14,7 +14,7 @@
 
 |  회차  |                             번호                             | 문제                          | 정현 | 유나 | 강호 | 연수 |
 | :----: | :----------------------------------------------------------: | :----------------------------: | :--: | :--: | :--: | :--: |
-| 41회차 |       [ct](https://www.codetree.ai/training-field/frequent-problems/problems/toast-eggmold/description)         | 토스트 계란틀 |    |  |    |    |
+| 41회차 |       [ct](https://www.codetree.ai/training-field/frequent-problems/problems/toast-eggmold/description)         | 토스트 계란틀 |    | ☘️ |    |    |
 | 41회차 |       [ct](https://www.codetree.ai/training-field/frequent-problems/problems/pacman/description)         | 팩맨 |    | ☘️ |    |    |
 | 40회차 |       [ct](https://www.codetree.ai/training-field/frequent-problems/problems/go-on-the-rides/description)         | 놀이기구 탑승 |    | 🍀 |    |    |
 | 39회차 |       [bj2450](https://www.acmicpc.net/problem/2450)         | 모양 정돈 |    |   |    |    |
