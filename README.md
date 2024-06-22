@@ -14,7 +14,7 @@
 
 |  회차  |                             번호                             | 문제                          | 정현 | 유나 | 강호 | 연수 |
 | :----: | :----------------------------------------------------------: | :----------------------------: | :--: | :--: | :--: | :--: |
-| 42회차 |       [bj1563](https://www.acmicpc.net/problem/1563)         | 개근상 |    |   |    |    |
+| 42회차 |       [bj1563](https://www.acmicpc.net/problem/1563)         | 개근상 |    | ☘️    |    |    |
 | 42회차 |       [bj5557](https://www.acmicpc.net/problem/5557)         | 1학년 |    |  🍀  |    |    |
 | 41회차 |       [ct](https://www.codetree.ai/training-field/frequent-problems/problems/toast-eggmold/description)         | 토스트 계란틀 |    | 🍀 |    |    |
 | 41회차 |       [ct](https://www.codetree.ai/training-field/frequent-problems/problems/pacman/description)         | 팩맨 |    | 🍀 |    |    |
