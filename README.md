@@ -16,7 +16,7 @@
 | :----: | :----------------------------------------------------------: | :----------------------------: | :--: | :--: | :--: | :--: |
 | 43회차 |       [bj22234](https://www.acmicpc.net/problem/22234)         | 가희와 은행 |    | 🍀  |    |    |
 | 43회차 |       [st7727](https://softeer.ai/practice/7727)         | 함께하는 효도 |    |  🍀  |    |    |
-| 42회차 |       [bj1563](https://www.acmicpc.net/problem/1563)         | 개근상 |    | ☘️    |    |    |
+| 42회차 |       [bj1563](https://www.acmicpc.net/problem/1563)         | 개근상 |  🌓  | ☘️    |    |    |
 | 42회차 |       [bj5557](https://www.acmicpc.net/problem/5557)         | 1학년 |    |  🍀  |    |    |
 | 41회차 |       [ct](https://www.codetree.ai/training-field/frequent-problems/problems/toast-eggmold/description)         | 토스트 계란틀 |    | 🍀 |    |    |
 | 41회차 |       [ct](https://www.codetree.ai/training-field/frequent-problems/problems/pacman/description)         | 팩맨 |    | 🍀 |    |    |
@@ -27,7 +27,7 @@
 | 38회차 |       [bj1261](https://www.acmicpc.net/problem/1261)         | 알고스팟 |    | 🍀 |    |    |
 | 37회차 |       [bj1525](https://www.acmicpc.net/problem/1525)         | 퍼즐 |  🪼  |   |    |    |
 | 37회차 |       [bj1774](https://www.acmicpc.net/problem/1774)         | 우주신과의 교감 |    | ☘️ |    |    |
-| 36회차 |       [bj6198](https://www.acmicpc.net/problem/6198)         | 옥상 정원 꾸미기 |    | ☘️  |    |    |
+| 36회차 |       [bj6198](https://www.acmicpc.net/problem/6198)         | 옥상 정원 꾸미기 | 🌓  | ☘️  |    |    |
 | 35회차 |       [bj11578](https://www.acmicpc.net/problem/11578)         | 팀원 모집 |  💀  | 🍀  |    |    |
 | 35회차 |       [bj1062](https://www.acmicpc.net/problem/1062)         | 가르침 |    | 🍀  |    |    |
 | 34회차 |       [bj6209](https://www.acmicpc.net/problem/6209)         | 제자리 멀리뛰기 |  💀  | 🍀  |    |    |
