@@ -25,34 +25,34 @@
 | 39회차 |       [bj4991](https://www.acmicpc.net/problem/4991)         | 로봇 청소기 |    | ☘️  |    |    |
 | 38회차 |       [bj1368](https://www.acmicpc.net/problem/1368)         | 물대기 |    |   |    |    |
 | 38회차 |       [bj1261](https://www.acmicpc.net/problem/1261)         | 알고스팟 |    | 🍀 |    |    |
-| 37회차 |       [bj1525](https://www.acmicpc.net/problem/1525)         | 퍼즐 |  🪼  |   |    |    |
+| 37회차 |       [bj1525](https://www.acmicpc.net/problem/1525)         | 퍼즐 |  🌝  |   |    |    |
 | 37회차 |       [bj1774](https://www.acmicpc.net/problem/1774)         | 우주신과의 교감 |    | ☘️ |    |    |
 | 36회차 |       [bj6198](https://www.acmicpc.net/problem/6198)         | 옥상 정원 꾸미기 | 🌓  | ☘️  |    |    |
-| 35회차 |       [bj11578](https://www.acmicpc.net/problem/11578)         | 팀원 모집 |  💀  | 🍀  |    |    |
+| 35회차 |       [bj11578](https://www.acmicpc.net/problem/11578)         | 팀원 모집 |  🌝  | 🍀  |    |    |
 | 35회차 |       [bj1062](https://www.acmicpc.net/problem/1062)         | 가르침 |    | 🍀  |    |    |
-| 34회차 |       [bj6209](https://www.acmicpc.net/problem/6209)         | 제자리 멀리뛰기 |  💀  | 🍀  |    |    |
+| 34회차 |       [bj6209](https://www.acmicpc.net/problem/6209)         | 제자리 멀리뛰기 |  🌝  | 🍀  |    |    |
 | 34회차 |       [bj3020](https://www.acmicpc.net/problem/3020)         | 개똥벌레 |    | 🍀  |    |    |
 | 33회차 |       [bj2881](https://www.acmicpc.net/problem/2881)         | 산책길 |    |   |    |    |
 | 33회차 |       [bj2632](https://www.acmicpc.net/problem/2632)         | 피자판매 |    | 🍀  |    |    |
 | 32회차 |       [bj3190](https://www.acmicpc.net/problem/3190)         | 뱀 |    |  🍀 |    |    |
 | 32회차 |       [bj1113](https://www.acmicpc.net/problem/1113)         | 수영장 만들기 |    | 🍀  |    |    |
-| 31회차 |       [bj20542](https://www.acmicpc.net/problem/20542)         | 받아쓰기 |  💀  |    |    |    |
+| 31회차 |       [bj20542](https://www.acmicpc.net/problem/20542)         | 받아쓰기 |  🌝  |    |    |    |
 | 31회차 |       [bj5052](https://www.acmicpc.net/problem/5052)         | 전화번호 목록 |    | 🍀   |    |    |
 | 30회차 |       [bj1106](https://www.acmicpc.net/problem/1106)         | 호텔 |    |  ☘️  |    |    |
 | 30회차 |       [bj11066](https://www.acmicpc.net/problem/11066)         | 파일 합치기 |    |  🍀  |    |    |
-| 29회차 |       [bj2011](https://www.acmicpc.net/problem/2011)         | 암호코드 |  💀  |    |    |    |
-| 29회차 |       [bj2294](https://www.acmicpc.net/problem/2294)         | 동전 2 |  💀  |  🍀  |    |    |
-| 28회차 |       [bj9461](https://www.acmicpc.net/problem/9461)         | 파도반 수열 |  💀   |  🍀  |    |    |
+| 29회차 |       [bj2011](https://www.acmicpc.net/problem/2011)         | 암호코드 |  🌝  |    |    |    |
+| 29회차 |       [bj2294](https://www.acmicpc.net/problem/2294)         | 동전 2 |  🌝  |  🍀  |    |    |
+| 28회차 |       [bj9461](https://www.acmicpc.net/problem/9461)         | 파도반 수열 |  🌝   |  🍀  |    |    |
 | 28회차 |       [bj14002](https://www.acmicpc.net/problem/14002)         | 가장 긴 증가하는 부분 수열 4 |    |  🍀  |    |    |
-| 27회차 |       [bj1956](https://www.acmicpc.net/problem/1956)         | 운동 |  💀  |  🍀  |    |    |
-| 27회차 |       [bj1967](https://www.acmicpc.net/problem/1967)         | 트리의 지름 |  💀  |  🍀  |    |    |
-| 26회차 |       [bj20040](https://www.acmicpc.net/problem/20040)       | 사이클 게임 |  💀  |  ☘️  |    |    |
+| 27회차 |       [bj1956](https://www.acmicpc.net/problem/1956)         | 운동 |  🌝  |  🍀  |    |    |
+| 27회차 |       [bj1967](https://www.acmicpc.net/problem/1967)         | 트리의 지름 |  🌝  |  🍀  |    |    |
+| 26회차 |       [bj20040](https://www.acmicpc.net/problem/20040)       | 사이클 게임 |  🌝  |  ☘️  |    |    |
 | 26회차 |       [bj2146](https://www.acmicpc.net/problem/2146)         | 다리 만들기 |   |  🍀  |    |    |
 | 26회차 |       [bj9465](https://www.acmicpc.net/problem/9465)         | 스티커 |   |    |    |    |
-| 25회차 |       [bj10775](https://www.acmicpc.net/problem/10775)       | 공항 |  💀  |    |    |    |
+| 25회차 |       [bj10775](https://www.acmicpc.net/problem/10775)       | 공항 |  🌝  |    |    |    |
 | 25회차 |       [bj11049](https://www.acmicpc.net/problem/11049)       | 행렬 곱셈 순서 |   |  🍀  |    |    |
 | 25회차 |       [bj2831](https://www.acmicpc.net/problem/2831)         | 댄스 파티 |   |  ☘️  |    |    |
-| 24회차 |       [bj2232](https://www.acmicpc.net/problem/2232)         | 지뢰 |  💀  |    |    |    |
+| 24회차 |       [bj2232](https://www.acmicpc.net/problem/2232)         | 지뢰 |  🌝  |    |    |    |
 | 24회차 |       [bj2143](https://www.acmicpc.net/problem/2143)         | 두 배열의 합 |   |  🍀  |    |    |
 | 24회차 |       [bj2831](https://www.acmicpc.net/problem/2831)         | 댄스 파티 |   |  ☘️  |    |    |
 | 23회차 |       [bj1411](https://www.acmicpc.net/problem/1411)         | 비슷한 단어 |   |  🍀  |    |    |
@@ -61,16 +61,16 @@
 | 22회차 |       [bj1863](https://www.acmicpc.net/problem/1863)         | 스카이라인 쉬운거 |   |    |    |    |
 | 22회차 |       [bj1541](https://www.acmicpc.net/problem/1541)         | 잃어버린 괄호 |   |  🍀  |    |    |
 | 22회차 |       [bj10800](https://www.acmicpc.net/problem/10800)       | 컬러볼 |   |  ☘️  |    |  🌷  |
-| 21회차 |       [bj2659](https://www.acmicpc.net/problem/2659)         | 십자카드 문제 |  💀  |    |    |    |
+| 21회차 |       [bj2659](https://www.acmicpc.net/problem/2659)         | 십자카드 문제 |  🌝  |    |    |    |
 | 21회차 |       [bj2696](https://www.acmicpc.net/problem/2696)         | 중앙값 구하기 |    |  🍀 |    |    |
 | 21회차 |       [bj1976](https://www.acmicpc.net/problem/1976)         | 여행 가자 |    |    |    |  🌷  |
-| 20회차 |       [bj17298](https://www.acmicpc.net/problem/17298)       | 오큰수 |  💀  |     |    |    |
+| 20회차 |       [bj17298](https://www.acmicpc.net/problem/17298)       | 오큰수 |  🌝  |     |    |    |
 | 20회차 |       [bj2281](https://www.acmicpc.net/problem/2281)         | 데스노트 |    | 🍀 |    |    |
 | 20회차 |       [bj1339](https://www.acmicpc.net/problem/1339)         | 단어수학 |    |     |    |  🌷  |
-| 19회차 |       [bj14426](https://www.acmicpc.net/problem/14426)       | 접두사 찾기 |  💀   |     |    |    |
+| 19회차 |       [bj14426](https://www.acmicpc.net/problem/14426)       | 접두사 찾기 |  🌝   |     |    |    |
 | 19회차 |       [bj11729](https://www.acmicpc.net/problem/11729)       | 하노이 탑 이동 순서 |     | 🍀 |    |    |
-| 19회차 |       [bj6588](https://www.acmicpc.net/problem/6588)         | 골드바흐의 추측 |   💀   |    |    |  🌷  |
-| 18회차 |       [bj2529](https://www.acmicpc.net/problem/2529)         | 부등호 |  💀  |     |    |    |
+| 19회차 |       [bj6588](https://www.acmicpc.net/problem/6588)         | 골드바흐의 추측 |   🌝   |    |    |  🌷  |
+| 18회차 |       [bj2529](https://www.acmicpc.net/problem/2529)         | 부등호 |  🌝  |     |    |    |
 | 18회차 |       [bj1958](https://www.acmicpc.net/problem/1958)         | LCS 3 |     |  🍀  |    |    |
 | 18회차 |       [bj2531](https://www.acmicpc.net/problem/2531)         | 회전초밥 |     |    |    |  🌼  |
 | 17회차 |       [bj1652](https://www.acmicpc.net/problem/1652)         | 누울 자리를 찾아라 |     |     |    |  🌼  |
@@ -82,7 +82,7 @@
 | 15회차 |       [bj2565](https://www.acmicpc.net/problem/2565)         | 전깃줄 |     |  🍀   |    |    |
 | 15회차 |       [bj14567](https://www.acmicpc.net/problem/14567)       | 선수과목(Prerequisite) |     |     |    |    |
 | 15회차 |       [bj2110](https://www.acmicpc.net/problem/2110)         | 공유기 설치 |     |      |    |  🌼  |
-| 14회차 |       [bj1285](https://www.acmicpc.net/problem/1285)         | 동전 뒤집기 |  💀   |     |    |    |
+| 14회차 |       [bj1285](https://www.acmicpc.net/problem/1285)         | 동전 뒤집기 |  🌝   |     |    |    |
 | 14회차 |       [bj2458](https://www.acmicpc.net/problem/2458)         | 키 순서 |     |  🍀   |    |    |
 | 14회차 |       [bj2467](https://www.acmicpc.net/problem/2467)         | 용액 |     |  ☘️   |    |    |
 | 14회차 |       [bj2504](https://www.acmicpc.net/problem/2504)         | 괄호의 값 |     |  ☘️   |    |  🌷  |
@@ -92,7 +92,7 @@
 | 13회차 |       [bj2564](https://www.acmicpc.net/problem/2564)         | 경비원 |     |  ☘️   |    |  🌷  |
 | 12회차  |       [bj1245](https://www.acmicpc.net/problem/1245)        |    농장 관리     |     |    |     |  🌷  |
 | 12회차  |       [ct](https://www.codetree.ai/training-field/frequent-problems/problems/destroy-the-turret/description)       |   포탑 부수기     |     |  🍀   |    |    |
-| 12회차  |       [bj1655](https://www.acmicpc.net/problem/1655)        |    가운데를 말해요     | 💀 |  🍀  |    |    |
+| 12회차  |       [bj1655](https://www.acmicpc.net/problem/1655)        |    가운데를 말해요     | 🌝 |  🍀  |    |    |
 | 11회차  |       [ct](https://www.codetree.ai/training-field/frequent-problems/problems/maze-runner/description)       |    메이즈 러너     |     |  🍀   |    |    |
 | 11회차  |       [bj11660](https://www.acmicpc.net/problem/11660)       |   구간 합 구하기 5      |     |  ☘️   |     |  🌷  |
 | 10회차  |       [bj2346](https://www.acmicpc.net/problem/2346)       |    풍선 터뜨리기     |     |     |    |    |
