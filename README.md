@@ -18,9 +18,9 @@
 | 43회차 |       [st7727](https://softeer.ai/practice/7727)         | 함께하는 효도 |  🌓  |  🍀  |    |    |
 | 42회차 |       [bj1563](https://www.acmicpc.net/problem/1563)         | 개근상 |  🌓  | ☘️    |    |    |
 | 42회차 |       [bj5557](https://www.acmicpc.net/problem/5557)         | 1학년 |    |  🍀  |    |    |
-| 41회차 |       [ct](https://www.codetree.ai/training-field/frequent-problems/problems/toast-eggmold/description)         | 토스트 계란틀 |    | 🍀 |    |    |
+| 41회차 |       [ct](https://www.codetree.ai/training-field/frequent-problems/problems/toast-eggmold/description)         | 토스트 계란틀 |  🌓  | 🍀 |    |    |
 | 41회차 |       [ct](https://www.codetree.ai/training-field/frequent-problems/problems/pacman/description)         | 팩맨 |    | 🍀 |    |    |
-| 40회차 |       [ct](https://www.codetree.ai/training-field/frequent-problems/problems/go-on-the-rides/description)         | 놀이기구 탑승 |    | 🍀 |    |    |
+| 40회차 |       [ct](https://www.codetree.ai/training-field/frequent-problems/problems/go-on-the-rides/description)         | 놀이기구 탑승 |  🌓  | 🍀 |    |    |
 | 39회차 |       [bj2450](https://www.acmicpc.net/problem/2450)         | 모양 정돈 |    |   |    |    |
 | 39회차 |       [bj4991](https://www.acmicpc.net/problem/4991)         | 로봇 청소기 |    | ☘️  |    |    |
 | 38회차 |       [bj1368](https://www.acmicpc.net/problem/1368)         | 물대기 |    |   |    |    |
